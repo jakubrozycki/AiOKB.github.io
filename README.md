@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxleGNlbHxlbnwwfHx8fDE2OTc1MzEwNDd8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # 👋 System premiowy CX!
 
 **For now it is only a proof of concept :)**&#x20;
