@@ -1,7 +1,6 @@
+[Spis treści](System premiowy CX!/SUMMARY.md)
+
 # 📧 Osoby kontaktowe
-
-
-
 
 Zachęcamy do zapoznania się z tą bazą wiedzy zanim sięgniesz po, któryś z kanałów kontaktu - jest duża szansa, że znajdziesz odpowiedź szybciej niż my będziemy w stanie Ci odpowiedzieć :tada:
 

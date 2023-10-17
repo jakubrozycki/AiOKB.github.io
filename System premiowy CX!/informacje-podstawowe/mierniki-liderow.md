@@ -1,3 +1,5 @@
+[Spis treści](System premiowy CX!/SUMMARY.md)
+
 # 📐 Mierniki liderów
 
 ## Podstawowe mierniki:
