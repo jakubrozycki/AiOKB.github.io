@@ -6,9 +6,8 @@ coverY: 0
 
 # 👋 System premiowy CX!
 
-{% hint style="info" %}
 **For now it is only a proof of concept :)**&#x20;
-{% endhint %}
+
 
 ### Kogo obejmuje
 
